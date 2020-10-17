@@ -26,6 +26,5 @@ Sensors
 #clf5 = BaggingClassifier(clf3, max_samples=0.5, max_features=0.5)
 
 if __name__ =="__main__":
-    print ("God is great!")
-    data = pd.read_csv("data/m14_merged.csv");
+      data = pd.read_csv("data/m14_merged.csv");
     
