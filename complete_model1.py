@@ -4,7 +4,6 @@
 # # WESAD
 # ###  A Multimodal Dataset for Wearable Stress and Affect Detection
 # 
-# ##### Matthew Johnson, 2019
 # 
 # ===============================================================================================================
 # 
@@ -405,7 +404,6 @@ plt.tight_layout();
 #torch.save(model.state_dict(), 'm13_model.pt')
 
 
-# In[ ]:
 
 
 
