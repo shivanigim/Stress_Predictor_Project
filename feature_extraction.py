@@ -1,19 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[1]:
-
-
-#! python3.6 data_wrangling.py
-
-
-# In[ ]:
-
-
-
-
-
-# In[2]:
 
 
 from readme_parser import rparser
